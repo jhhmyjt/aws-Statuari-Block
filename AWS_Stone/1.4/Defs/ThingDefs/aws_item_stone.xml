@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ThingDef ParentName="StoneBlocksBase">
+        <defName>awsPracticalStoneBlock</defName>
+        <label>practical stone block</label>
+        <description>practical stone block</description>
+        <graphicData>
+            <color>(255,254,249)</color>
+        </graphicData>
+        <statBases>
+            <Mass>1</Mass>
+        </statBases>
+        <stuffProps>
+            <color>(255,254,249)</color>
+            <soundImpactStuff>BulletImpact_Ground</soundImpactStuff>
+            <soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
+            <soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
+            <stuffAdjective>practical stone</stuffAdjective>
+            <statFactors>
+                <Beauty>2.4</Beauty>
+                <MaxHitPoints>2.0</MaxHitPoints>
+                <WorkToBuild>6.5</WorkToBuild>
+                <WorkToMake>1.5</WorkToMake>
+            </statFactors>
+            <statOffsets>
+                <Beauty>1.8</Beauty>
+            </statOffsets>
+            <canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
+        </stuffProps>
+    </ThingDef>
+    <RecipeDef ParentName="MakeStoneBlocksBase">
+        <defName>awsMake_PracticalStoneBlock</defName>
+        <label>make practical stone block</label>
+        <description>make practical stone block.</description>
+        <ingredients>
+            <li>
+                <filter>
+                    <categories>
+                        <li>StoneChunks</li>
+                    </categories>
+                </filter>
+                <count>1</count>
+            </li>
+        </ingredients>
+        <fixedIngredientFilter>
+            <categories>
+                <li>StoneChunks</li>
+            </categories>
+        </fixedIngredientFilter>
+        <products>
+            <awsPracticalStoneBlock>20</awsPracticalStoneBlock>
+        </products>
+    </RecipeDef>
+</Defs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>aws Practical Stone Block</name>
+  <author>Awakened</author>
+  <packageId>Awakened.PracticalStoneBlock</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <description>Practical Stone Block
+  </description>
+</ModMetaData>
