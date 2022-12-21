@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <!-- 皇权dlc补丁 -->
+    <Operation Class="PatchOperationConditional">
+        <xpath>
+            /Defs/TerrainDef[defName="FineTileSandstone"]
+        </xpath>
+        <!-- 精致地板补丁 -->
+        <match Class="PatchOperationAdd">
+            <xpath>
+                /Defs
+            </xpath>
+            <value>
+                <TerrainDef ParentName="FineTileStoneBase">
+                    <defName>awsFineTilePractical</defName>
+                    <label>fine granite tile</label>
+                    <color>(255,254,249)</color>
+                    <costList>
+                        <awsPracticalStoneBlock>20</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+            </value>
+        </match>
+    </Operation>
+</Patch>

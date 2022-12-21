@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>aws Practical Stone Block</name>
+  <name>aws Statuari Block</name>
   <author>Awakened</author>
   <packageId>Awakened.PracticalStoneBlock</packageId>
   <supportedVersions>
     <li>1.4</li>
   </supportedVersions>
-  <description>Practical Stone Block
+  <description>A simple mod that add a new beautiful practical stone block called statuari(rgb
+    255,254,249) in game, you can use any chunk to make it. Besides, You can use statuari block to
+    make drug lab, tailor bench, hi-tech research bench etc in vanilla.
+    一个简单的mod，添加了一个新的漂亮实用的叫做“雪霜白”的石材(rgb 255,254,249)，你可以用任意石块制作它，另外，你可以用这种石砖制作原版的药物试验台、高级研究台、裁缝台等。
   </description>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+  </loadAfter>
+  <forceLoadAfter>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>Ludeon.RimWorld.Ideology</li>
+  </forceLoadAfter>
 </ModMetaData>

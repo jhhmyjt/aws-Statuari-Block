@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
-    <awsMake_PracticalStoneBlock.label>制作实用石砖</awsMake_PracticalStoneBlock.label>
-    <awsMake_PracticalStoneBlock.description>将石块切割成可用的砖块。</awsMake_PracticalStoneBlock.description>
+    <awsMake_PracticalStoneBlock.label>制作雪霜白石砖</awsMake_PracticalStoneBlock.label>
+    <awsMake_PracticalStoneBlock.description>将石块切割成精美的雪霜白石砖。</awsMake_PracticalStoneBlock.description>
     <awsMake_PracticalStoneBlock.jobString>正在切割石材。</awsMake_PracticalStoneBlock.jobString>
 </LanguageData>

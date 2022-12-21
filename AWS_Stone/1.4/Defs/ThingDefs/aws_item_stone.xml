@@ -2,8 +2,9 @@
 <Defs>
     <ThingDef ParentName="StoneBlocksBase">
         <defName>awsPracticalStoneBlock</defName>
-        <label>practical stone block</label>
-        <description>practical stone block</description>
+        <label>statuari block</label>
+        <description>Beautiful practical stone block.
+        </description>
         <graphicData>
             <color>(255,254,249)</color>
         </graphicData>
@@ -15,7 +16,7 @@
             <soundImpactStuff>BulletImpact_Ground</soundImpactStuff>
             <soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
             <soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
-            <stuffAdjective>practical stone</stuffAdjective>
+            <stuffAdjective>statuari stone</stuffAdjective>
             <statFactors>
                 <Beauty>2.4</Beauty>
                 <MaxHitPoints>2.0</MaxHitPoints>
@@ -30,8 +31,8 @@
     </ThingDef>
     <RecipeDef ParentName="MakeStoneBlocksBase">
         <defName>awsMake_PracticalStoneBlock</defName>
-        <label>make practical stone block</label>
-        <description>make practical stone block.</description>
+        <label>make statuari stone block</label>
+        <description>make statuari stone block.</description>
         <ingredients>
             <li>
                 <filter>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- 原版 -->
+    <awsFlagstonePractical.label>雪霜白石板</awsFlagstonePractical.label>
+    <awsFlagstonePractical.description>粗糙切割的雪雪霜白地砖。不太好看，但非常适合铺设道路和室外的走道。拆除石板无法回收资源。</awsFlagstonePractical.description>
+
+    <awsTilePractical.label>雪霜白地砖</awsTilePractical.label>
+    <awsTilePractical.description>坚固的石质地砖给人以城堡一样的感觉。看起来很漂亮，就是铺设速度较慢。</awsTilePractical.description>
+
+    <!-- Refined_Floors -->
+    <awsSlabPractical.label>雪霜白切石地板</awsSlabPractical.label>
+    <awsSlabPractical.description>精细切割并安装石材砖。看上去很漂亮，但是要花很长时间铺设。</awsSlabPractical.description>
+
+    <awsPebblesPractical.label>雪霜白砾石地板</awsPebblesPractical.label>
+    <awsPebblesPractical.description>装饰性小石子的堆积铺设的地面。看上去是很普通，并且铺设起来相对较快。</awsPebblesPractical.description>
+
+    <awsDecoratedTileStonePractical.label>雪霜白装饰瓷砖</awsDecoratedTileStonePractical.label>
+    <awsDecoratedTileStonePractical.description>经过非常精确的切割和铺设的装饰石瓦。建造缓慢，非常美丽。</awsDecoratedTileStonePractical.description>
+
+    <!-- [WD] Expanded Floors -->
+    <awsRoughPracticalTile.label>粗糙的雪霜白瓷砖</awsRoughPracticalTile.label>
+    <awsRoughPracticalTile.description>简单的瓷砖。又快又便宜</awsRoughPracticalTile.description>
+
+    <awsPracticalTile.label>雪霜白地板</awsPracticalTile.label>
+    <awsPracticalTile.description>地板由光滑的石砖制成。</awsPracticalTile.description>
+
+    <awsCheckPracticalTile.label>格子雪霜白地板</awsCheckPracticalTile.label>
+    <awsCheckPracticalTile.description>格子光滑的石砖。</awsCheckPracticalTile.description>
+
+    <awsMosaicPracticalFloor.label>马赛克雪霜白地板</awsMosaicPracticalFloor.label>
+    <awsMosaicPracticalFloor.description>美丽的马赛克地板是石头做成的砖块。</awsMosaicPracticalFloor.description>
+
+    <awsCheckPracticalFloor.label>格子雪霜白地板</awsCheckPracticalFloor.label>
+    <awsCheckPracticalFloor.description>美丽的格子地板是石头做成的砖块。</awsCheckPracticalFloor.description>
+
+    <awsPolishedPracticalFloor.label>抛光雪霜白地板</awsPolishedPracticalFloor.label>
+    <awsPolishedPracticalFloor.description>非常干净漂亮的磨光石头地板。</awsPolishedPracticalFloor.description>
+
+    <awsPracticalPlateFloor.label>雪霜白石板</awsPracticalPlateFloor.label>
+    <awsPracticalPlateFloor.description>非常漂亮的石板地板。</awsPracticalPlateFloor.description>
+</LanguageData>

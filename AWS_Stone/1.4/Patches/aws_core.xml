@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <!-- 原版补丁 -->
+    <Operation Class="PatchOperationAdd">
+        <!-- 可用石材建造：医疗床、高级研究台等 -->
+        <xpath>
+            /Defs/ThingDef[
+            defName="HospitalBed"or
+            defName="HiTechResearchBench"or
+            defName="TableSculpting"or
+            defName="TableButcher"or
+            defName="TableStonecutter"or
+            defName="DiningChair"or
+            defName="DrugLab"or
+            defName="ElectricTailoringBench"or
+            defName="HandTailoringBench"or
+            defName="TableStonecutter"or
+            defName="TableStonecutter"
+            ]/stuffCategories
+        </xpath>
+        <value>
+            <li>Stony</li>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>
+            /Defs
+        </xpath>
+        <value>
+            <TerrainDef ParentName="FlagstoneBase">
+                <defName>awsFlagstonePractical</defName>
+                <label>statuari flagstone</label>
+                <color>(255,254,249)</color>
+                <costList>
+                    <awsPracticalStoneBlock>4</awsPracticalStoneBlock>
+                </costList>
+            </TerrainDef>
+            <TerrainDef ParentName="TileStoneBase">
+                <defName>awsTilePractical</defName>
+                <label>statuari tile</label>
+                <color>(255,254,249)</color>
+                <costList>
+                    <awsPracticalStoneBlock>4</awsPracticalStoneBlock>
+                </costList>
+            </TerrainDef>
+        </value>
+    </Operation>
+</Patch>

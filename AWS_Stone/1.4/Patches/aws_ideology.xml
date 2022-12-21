@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <!-- 意识形态dlc补丁 -->
+    <Operation Class="PatchOperationConditional">
+        <xpath>
+            /Defs/ThingDef[defName="StylingStation"]
+        </xpath>
+        <match Class="PatchOperationAdd">
+            <xpath>
+                /Defs/ThingDef[
+                defName="StylingStation"or
+                defName="Skullspike"or
+                defName="GibbetCage"
+                ]/stuffCategories
+            </xpath>
+            <value>
+                <li>Stony</li>
+            </value>
+        </match>
+    </Operation>
+</Patch>

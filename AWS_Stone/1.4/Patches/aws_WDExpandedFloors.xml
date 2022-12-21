@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <!-- [WD] Expanded Floors补丁 -->
+    <Operation Class="PatchOperationConditional">
+        <xpath>
+            /Defs/TerrainDef[defName="WDRoughSandstoneTile"]
+        </xpath>
+        <match Class="PatchOperationAdd">
+            <xpath>
+                /Defs
+            </xpath>
+            <value>
+                <TerrainDef ParentName="WDRoughStoneTileBase">
+                    <defName>awsRoughPracticalTile</defName>
+                    <label>rough statuari tile</label>
+                    <color>(255,254,249)</color>
+                    <costList>
+                        <awsPracticalStoneBlock>4</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+                <TerrainDef ParentName="WDStoneTileBase">
+                    <defName>awsPracticalTile</defName>
+                    <label>smooth statuari tile</label>
+                    <color>(255,254,249)</color>
+                    <costList>
+                        <awsPracticalStoneBlock>4</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+                <TerrainDef ParentName="WDCheckStoneTileBase">
+                    <defName>awsCheckPracticalTile</defName>
+                    <label>check statuari tile</label>
+                    <color>(255,254,249)</color>
+                    <costList>
+                        <awsPracticalStoneBlock>4</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+                <TerrainDef ParentName="WDCheckStoneFloorBase">
+                    <defName>awsCheckPracticalFloor</defName>
+                    <label>check statuari floor</label>
+                    <color>(255,254,249)</color>
+                    <costList>
+                        <awsPracticalStoneBlock>4</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+                <TerrainDef ParentName="WDMosaicStoneFloorBase">
+                    <defName>awsMosaicPracticalFloor</defName>
+                    <label>mosaic statuari floor</label>
+                    <color>(255,254,249)</color>
+                    <costList>
+                        <awsPracticalStoneBlock>4</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+                <TerrainDef ParentName="WDPolishedStoneFloorBase">
+                    <defName>awsPolishedPracticalFloor</defName>
+                    <label>polished statuari floor</label>
+                    <color>(255,254,249)</color>
+                    <costList>
+                        <awsPracticalStoneBlock>20</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+                <TerrainDef ParentName="WDStonePlateFloorBase">
+                    <defName>awsPracticalPlateFloor</defName>
+                    <label>statuari plate floor</label>
+                    <color>(255,254,249)</color>
+                    <costList>
+                        <awsPracticalStoneBlock>20</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+            </value>
+        </match>
+    </Operation>
+</Patch>
