@@ -1,5 +1,4 @@
-[b]一个简单的mod，添加了一个新的漂亮实用的叫做“雪霜白”的石材(rgb
-255,254,249)，你可以用任意石块制作它，另外，你可以用这种石砖制作原版的药物试验台、高级研究台、裁缝台等。[/b]
+[b]一个简单的mod，添加了一个新的漂亮实用的叫做“雪霜白”的石材(rgb 255,254,249)，你可以用任意石块制作它，另外，你可以用这种石砖制作原版的药物试验台、高级研究台、裁缝台等。[/b]
 
 [b]可中途加入[/b]
 不建议中途取消mod（如果需要取消先销毁mod物品）
@@ -9,3 +8,5 @@ Royalty - 精致地板
 ideology - 梳妆台等
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2464923082]Refined floors (discontinued)[/url] - 所有可用石砖建造的地板
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1817862464][WD] Expanded Floors[/url] - 所有可用石砖建造的地板
+
+[img]https://i.imgur.com/iMMfApB.png[/img]
