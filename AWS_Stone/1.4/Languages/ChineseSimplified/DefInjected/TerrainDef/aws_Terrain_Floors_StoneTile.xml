@@ -1,11 +1,38 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    <!-- 原版 -->
+    <!-- Core -->
     <awsFlagstonePractical.label>雪霜白石板</awsFlagstonePractical.label>
     <awsFlagstonePractical.description>粗糙切割的雪雪霜白地砖。不太好看，但非常适合铺设道路和室外的走道。拆除石板无法回收资源。</awsFlagstonePractical.description>
 
     <awsTilePractical.label>雪霜白地砖</awsTilePractical.label>
     <awsTilePractical.description>坚固的石质地砖给人以城堡一样的感觉。看起来很漂亮，就是铺设速度较慢。</awsTilePractical.description>
+
+    <!-- Ideology -->
+    <awsTile_MorbidPractical.label>病态风格地砖（雪霜白）</awsTile_MorbidPractical.label>
+    <awsTile_MorbidPractical.description>病态风格的精美地砖。</awsTile_MorbidPractical.description>
+
+    <awsTile_SpikecorePractical.label>尖刺风格地砖（雪霜白）</awsTile_SpikecorePractical.label>
+    <awsTile_SpikecorePractical.description>尖刺风格的精美地砖。</awsTile_SpikecorePractical.description>
+
+    <awsTile_TotemicPractical.label>图腾风格地砖（雪霜白）</awsTile_TotemicPractical.label>
+    <awsTile_TotemicPractical.description>图腾风格的精美地砖。</awsTile_TotemicPractical.description>
+
+    <!-- GloomyFurniture -->
+    <awsPebblePractical.label>雪霜白鹅卵石地板</awsPebblePractical.label>
+    <awsPebblePractical.description>由鹅卵石铺设的地板。</awsPebblePractical.description>
+
+    <!-- Vanilla Furniture Expanded - Architect -->
+    <awsArch_CobblestoneFloorPractical.label>雪霜白鹅卵石地板</awsArch_CobblestoneFloorPractical.label>
+    <awsArch_CobblestoneFloorPractical.description>用大小不一的石块随意铺设出的地砖，给人以乡野城堡一样的感觉。虽然铺设速度要比普通石制地砖砖快得多，也不需要专业的岩石切割知识，但缺乏抛光设计的美感。</awsArch_CobblestoneFloorPractical.description>
+
+    <awsArch_PolishedStoneFloorPractical.label>雪霜白抛光地砖</awsArch_PolishedStoneFloorPractical.label>
+    <awsArch_PolishedStoneFloorPractical.description>精美的抛光石砖，很适合用于打造优雅的豪宅。虽然铺设速度要比精致石制地砖快上不少，但需要消耗大量的资源。看起来很漂亮。</awsArch_PolishedStoneFloorPractical.description>
+
+    <awsArch_SlabsPractical.label>雪霜白古朴石板</awsArch_SlabsPractical.label>
+    <awsArch_SlabsPractical.description>用大石板随意铺设出的地砖，很适合用于打造圣殿或神庙。看起来十分漂亮，但需要花费大量的时间与资源进行铺设。</awsArch_SlabsPractical.description>
+
+    <awsArch_BridgePractical.label>雪霜白桥梁</awsArch_BridgePractical.label>
+    <awsArch_BridgePractical.description>石桥是可以建在水上的结构。桥梁允许在水上更快速地移动。一旦建成便可以支撑许多结构，包括重型建筑和各种墙。桥梁可以在沼泽地区建造。\n\n可以用任何种类的石砖进行建造。</awsArch_BridgePractical.description>
 
     <!-- Refined_Floors -->
     <awsSlabPractical.label>雪霜白切石地板</awsSlabPractical.label>

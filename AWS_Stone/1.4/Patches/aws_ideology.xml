@@ -5,17 +5,53 @@
         <xpath>
             /Defs/ThingDef[defName="StylingStation"]
         </xpath>
-        <match Class="PatchOperationAdd">
-            <xpath>
-                /Defs/ThingDef[
-                defName="StylingStation"or
-                defName="Skullspike"or
-                defName="GibbetCage"
-                ]/stuffCategories
-            </xpath>
-            <value>
-                <li>Stony</li>
-            </value>
+        <match Class="PatchOperationSequence">
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>
+                        /Defs/ThingDef[
+                        defName="StylingStation"or
+                        defName="Skullspike"or
+                        defName="GibbetCage"
+                        ]/stuffCategories
+                    </xpath>
+                    <value>
+                        <li>Stony</li>
+                    </value>
+                </li>
+                <li Class="PatchOperationAdd">
+                    <xpath>
+                        /Defs
+                    </xpath>
+                    <value>
+                        <TerrainDef ParentName="MorbidStoneTile">
+                            <defName>awsTile_MorbidPractical</defName>
+                            <label>statuari granite tile</label>
+                            <color>(255,254,249)</color>
+                            <costList>
+                                <awsPracticalStoneBlock>20</awsPracticalStoneBlock>
+                            </costList>
+                        </TerrainDef>
+                        <TerrainDef ParentName="SpikecoreStoneTile">
+                            <defName>awsTile_SpikecorePractical</defName>
+                            <label>statuari spikecore tile</label>
+                            <color>(255,254,249)</color>
+                            <costList>
+                                <awsPracticalStoneBlock>20</awsPracticalStoneBlock>
+                            </costList>
+                        </TerrainDef>
+                        <TerrainDef ParentName="TotemicStoneTile">
+                            <defName>awsTile_TotemicPractical</defName>
+                            <label>totemic statuari tile</label>
+                            <color>(255,254,249)</color>
+                            <costList>
+                                <awsPracticalStoneBlock>20</awsPracticalStoneBlock>
+                            </costList>
+                        </TerrainDef>
+                    </value>
+                </li>
+            </operations>
+
         </match>
     </Operation>
 </Patch>

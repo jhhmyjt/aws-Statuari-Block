@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <!-- GloomyFurniture补丁 -->
+    <Operation Class="PatchOperationConditional">
+        <xpath>
+            /Defs/TerrainDef[defName="PebbleMarble"]
+        </xpath>
+        <match Class="PatchOperationAdd">
+            <xpath>
+                /Defs
+            </xpath>
+            <value>
+                <TerrainDef ParentName="PebbleBase">
+                    <defName>awsPebblePractical</defName>
+                    <label>statuari Pebble</label>
+                    <color>(255,254,249)</color>
+                    <costList>
+                        <awsPracticalStoneBlock>4</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+            </value>
+        </match>
+    </Operation>
+</Patch>

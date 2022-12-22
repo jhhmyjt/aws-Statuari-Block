@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- Core -->
+    <awsFlagstonePractical.label>雪霜白石板</awsFlagstonePractical.label>
+    <awsFlagstonePractical.description>粗糙切割的雪雪霜白地磚。不太好看，但非常適合鋪設道路和室外的走道。拆除石板無法回收資源。</awsFlagstonePractical.description>
+
+    <awsTilePractical.label>雪霜白地磚</awsTilePractical.label>
+    <awsTilePractical.description>堅固的石質地磚給人以城堡壹樣的感覺。看起來很漂亮，就是鋪設速度較慢。</awsTilePractical.description>
+
+    <!-- Ideology -->
+    <awsTile_MorbidPractical.label>病態風格地磚（雪霜白）</awsTile_MorbidPractical.label>
+    <awsTile_MorbidPractical.description>病態風格的精美地磚。</awsTile_MorbidPractical.description>
+
+    <awsTile_SpikecorePractical.label>尖刺風格地磚（雪霜白）</awsTile_SpikecorePractical.label>
+    <awsTile_SpikecorePractical.description>尖刺風格的精美地磚。</awsTile_SpikecorePractical.description>
+
+    <awsTile_TotemicPractical.label>圖騰風格地磚（雪霜白）</awsTile_TotemicPractical.label>
+    <awsTile_TotemicPractical.description>圖騰風格的精美地磚。</awsTile_TotemicPractical.description>
+
+    <!-- GloomyFurniture -->
+    <awsPebblePractical.label>雪霜白鵝卵石地板</awsPebblePractical.label>
+    <awsPebblePractical.description>由鵝卵石鋪設的地板。</awsPebblePractical.description>
+
+    <!-- Vanilla Furniture Expanded - Architect -->
+    <awsArch_CobblestoneFloorPractical.label>雪霜白鵝卵石地板</awsArch_CobblestoneFloorPractical.label>
+    <awsArch_CobblestoneFloorPractical.description>用大小不壹的石塊隨意鋪設出的地磚，給人以鄉野城堡壹樣的感覺。雖然鋪設速度要比普通石制地磚磚快得多，也不需要專業的岩石切割知識，但缺乏抛光設計的美感。</awsArch_CobblestoneFloorPractical.description>
+
+    <awsArch_PolishedStoneFloorPractical.label>雪霜白抛光地磚</awsArch_PolishedStoneFloorPractical.label>
+    <awsArch_PolishedStoneFloorPractical.description>精美的抛光石磚，很適合用于打造優雅的豪宅。雖然鋪設速度要比精致石制地磚快上不少，但需要消耗大量的資源。看起來很漂亮。</awsArch_PolishedStoneFloorPractical.description>
+
+    <awsArch_SlabsPractical.label>雪霜白古樸石板</awsArch_SlabsPractical.label>
+    <awsArch_SlabsPractical.description>用大石板隨意鋪設出的地磚，很適合用于打造聖殿或神廟。看起來十分漂亮，但需要花費大量的時間與資源進行鋪設。</awsArch_SlabsPractical.description>
+
+    <awsArch_BridgePractical.label>雪霜白橋梁</awsArch_BridgePractical.label>
+    <awsArch_BridgePractical.description>石橋是可以建在水上的結構。橋梁允許在水上更快速地移動。壹旦建成便可以支撐許多結構，包括重型建築和各種牆。橋梁可以在沼澤地區建造。\n\n可以用任何種類的石磚進行建造。</awsArch_BridgePractical.description>
+
+    <!-- Refined_Floors -->
+    <awsSlabPractical.label>雪霜白切石地板</awsSlabPractical.label>
+    <awsSlabPractical.description>精細切割並安裝石材磚。看上去很漂亮，但是要花很長時間鋪設。</awsSlabPractical.description>
+
+    <awsPebblesPractical.label>雪霜白礫石地板</awsPebblesPractical.label>
+    <awsPebblesPractical.description>裝飾性小石子的堆積鋪設的地面。看上去是很普通，並且鋪設起來相對較快。</awsPebblesPractical.description>
+
+    <awsDecoratedTileStonePractical.label>雪霜白裝飾瓷磚</awsDecoratedTileStonePractical.label>
+    <awsDecoratedTileStonePractical.description>經過非常精確的切割和鋪設的裝飾石瓦。建造緩慢，非常美麗。</awsDecoratedTileStonePractical.description>
+
+    <!-- [WD] Expanded Floors -->
+    <awsRoughPracticalTile.label>粗糙的雪霜白瓷磚</awsRoughPracticalTile.label>
+    <awsRoughPracticalTile.description>簡單的瓷磚。又快又便宜</awsRoughPracticalTile.description>
+
+    <awsPracticalTile.label>雪霜白地板</awsPracticalTile.label>
+    <awsPracticalTile.description>地板由光滑的石磚制成。</awsPracticalTile.description>
+
+    <awsCheckPracticalTile.label>格子雪霜白地板</awsCheckPracticalTile.label>
+    <awsCheckPracticalTile.description>格子光滑的石磚。</awsCheckPracticalTile.description>
+
+    <awsMosaicPracticalFloor.label>馬賽克雪霜白地板</awsMosaicPracticalFloor.label>
+    <awsMosaicPracticalFloor.description>美麗的馬賽克地板是石頭做成的磚塊。</awsMosaicPracticalFloor.description>
+
+    <awsCheckPracticalFloor.label>格子雪霜白地板</awsCheckPracticalFloor.label>
+    <awsCheckPracticalFloor.description>美麗的格子地板是石頭做成的磚塊。</awsCheckPracticalFloor.description>
+
+    <awsPolishedPracticalFloor.label>抛光雪霜白地板</awsPolishedPracticalFloor.label>
+    <awsPolishedPracticalFloor.description>非常幹淨漂亮的磨光石頭地板。</awsPolishedPracticalFloor.description>
+
+    <awsPracticalPlateFloor.label>雪霜白石板</awsPracticalPlateFloor.label>
+    <awsPracticalPlateFloor.description>非常漂亮的石板地板。</awsPracticalPlateFloor.description>
+</LanguageData>

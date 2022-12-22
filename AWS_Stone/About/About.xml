@@ -7,8 +7,7 @@
     <li>1.4</li>
   </supportedVersions>
   <description>A simple mod that add a new beautiful practical stone block called statuari(rgb
-    255,254,249) in game, you can use any chunk to make it. Besides, You can use statuari block to
-    make drug lab, tailor bench, hi-tech research bench etc in vanilla.
+    255,254,249) in game, you can use any chunk to make it. Besides, You can use statuari block to make drug lab, tailor bench, hi-tech research bench etc in vanilla.
     一个简单的mod，添加了一个新的漂亮实用的叫做“雪霜白”的石材(rgb 255,254,249)，你可以用任意石块制作它，另外，你可以用这种石砖制作原版的药物试验台、高级研究台、裁缝台等。
   </description>
   <loadAfter>

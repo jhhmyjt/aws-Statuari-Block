@@ -1,0 +1,8 @@
+12.22
+增加了Ideology的风格地砖补丁
+增加了GloomyFurniture地板补丁
+增加了Vanilla Furniture Expanded-Architect桥梁和地板的补丁
+
+Added Ideology floor Patch 
+Added GloomyFurniture floor Patch 
+Added Vanilla Furniture Expanded-Architect bridge and floor patch

@@ -3,8 +3,7 @@
     <ThingDef ParentName="StoneBlocksBase">
         <defName>awsPracticalStoneBlock</defName>
         <label>statuari block</label>
-        <description>Beautiful practical stone block.
-        </description>
+        <description>Beautiful practical stone block.</description>
         <graphicData>
             <color>(255,254,249)</color>
         </graphicData>

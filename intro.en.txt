@@ -1,7 +1,5 @@
-[b]A simple mod that add a new beautiful practical stone block called statuari(rgb 255,254,249) in
-    game, you can use
-    any chunk to make it. Besides, You can use statuari block to make drug lab, tailor
-    bench, hi-tech research bench etc in vanilla.[/b]
+[b]A simple mod that add a new beautiful practical stone block called statuari(rgb 255,254,249) in game, you can use any chunk to make it. Besides, You can use statuari block to make drug lab, tailor bench, hi-tech research bench etc in vanilla.[/b]
+[b]It is better than vanilla block.[/b]
 
 [b]Works with existing saves.[/b]
 Cannot be removed from saves easily.
@@ -13,3 +11,5 @@ ideology - Styling station\Skullspike\Gibbet cage
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1817862464][WD] Expanded Floors[/url] - stone floors
 
 [img]https://i.imgur.com/iMMfApB.png[/img]
+
+[url=https://github.com/jhhmyjt/aws-Statuari-Block.git]GitHub link[/url]

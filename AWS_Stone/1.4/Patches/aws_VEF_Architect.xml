@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <!-- Refined floors (discontinued)补丁 -->
+    <Operation Class="PatchOperationConditional">
+        <xpath>
+            /Defs/TerrainDef[defName="VFEArch_BridgeLimestone"]
+        </xpath>
+        <match Class="PatchOperationAdd">
+            <xpath>
+                /Defs
+            </xpath>
+            <value>
+                <TerrainDef ParentName="StoneBridgeBase">
+                    <defName>awsArch_BridgePractical</defName>
+                    <label>statuari bridge</label>
+                    <color>(255,254,249)</color>
+                    <uiIconPath>StoneBridge/StoneBridgeLimestone_MenuIcon</uiIconPath>
+                    <costList>
+                        <awsPracticalStoneBlock>12</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+                <TerrainDef ParentName="CobblestoneBase">
+                    <defName>awsArch_CobblestoneFloorPractical</defName>
+                    <label>statuari cobblestone floor</label>
+                    <color>(255,254,249)</color>
+                    <costList>
+                        <awsPracticalStoneBlock>4</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+                <TerrainDef ParentName="PolishedStoneFloorBase">
+                    <defName>awsArch_PolishedStoneFloorPractical</defName>
+                    <label>statuari polished stone floor</label>
+                    <color>(255,254,249)</color>
+                    <costList>
+                        <awsPracticalStoneBlock>12</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+                <TerrainDef ParentName="StoneSlabsBase">
+                    <defName>awsArch_SlabsPractical</defName>
+                    <label>statuari slabs</label>
+                    <color>(255,254,249)</color>
+                    <costList>
+                        <awsPracticalStoneBlock>8</awsPracticalStoneBlock>
+                    </costList>
+                </TerrainDef>
+            </value>
+        </match>
+    </Operation>
+</Patch>
